@@ -1,0 +1,18 @@
+{
+    "type": "record",
+    "namespace": "com.example",
+    "name": "Id",
+    "version": "1",
+    "fields": [
+      {
+        "name": "uuid",
+        "type": "string",
+        "doc": "uuid"
+      },
+      {
+        "name": "version",
+        "type": "float",
+        "doc": "Version"
+      }
+    ]
+  }
